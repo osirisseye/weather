@@ -1,0 +1,36 @@
+body {
+	background-color: black;
+	background-image:url('https://s12.postimg.org/pmplove71/weather-default.jpg');
+  background-repeat: no-repeat;
+  background-size:cover
+}
+
+footer {
+  color:white;
+}
+
+#container {
+ 
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#quote {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+
+}
+
+.jumbotron {
+	color: white;
+	background-color:transparent; !important;
+	}
+
+#newButton {
+	margin-top:30px;
+	margin-bottom:30px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
